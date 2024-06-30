@@ -1,4 +1,4 @@
-# CodeWars SQL Solution
+# CodeWars Bash Solution
 
 Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.codewars.com/users/panifedov)
 
