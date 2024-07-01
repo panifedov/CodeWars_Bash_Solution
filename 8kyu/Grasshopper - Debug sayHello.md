@@ -54,5 +54,9 @@ greet "$1"
 
 ```
 
+```Bash
+echo "Hello, $1"
+```
+
 
 [See on CodeWars.com](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/shell)
