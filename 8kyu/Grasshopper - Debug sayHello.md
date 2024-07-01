@@ -36,25 +36,6 @@ testit("Mr. Scott")
 ### Solution
 
 ```Bash
-#!/bin/bash
-
-greet() {
-  local name=$1
-  echo "Hello, $name how are you doing today?"
-}
-
-
-if [ -z "$1" ]; then
-  echo "Usage: $0 <name>"
-  exit 1
-fi
-
-
-greet "$1"
-
-```
-
-```Bash
 echo "Hello, $1"
 ```
 
